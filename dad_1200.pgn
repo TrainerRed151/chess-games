@@ -1,0 +1,10 @@
+[Result "0-1"]
+[Date "2023.04.05"]
+[Round "1"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. d3 e5 2. e4 Nf6 3. Nf3 Nc6 4. Nc3 Bc5 5. g3 d6 6. Qe2 O-O 7. h3 h6 8. Nd2 Nd4 9. Qd1 c6 10. Ne2 d5 11. g4 Qb6 12. Rh2 dxe4 13. dxe4 Nxe4 14. b3 Nxd2 15. Qxd2 Nf3+ 16. Kd1 Nxd2 17. Bxd2 Bxf2 18. a4 Rd8 19. Kc1 Be3 20. Bxe3 Qxe3+ 21. Kb2 Be6 22. a5 Rd2 23. Ra3 Qc5 24. a6 Qxc2+ 25. Ka1 Rd1+ 26. Nc1 Rxc1# 0-1
+
