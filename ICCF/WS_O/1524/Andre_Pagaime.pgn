@@ -7,14 +7,12 @@
 [Result "1-0"]
 [BlackElo "1701"]
 
-1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 
-6.bxc3 Ne7 7.Qg4 Kf8 8.h4 h5 9.Qd1 Qa5 10.Bd2 Qc7 
-11.Nf3 b6 12.a4 Ba6 13.Bb5 Bxb5 14.axb5 a5 15.bxa6 cxd4 
-16.cxd4 Qc4 17.Rh3 Nf5 18.Ng5 Qxd4 19.Kf1 Nd7 20.Kg1 Qxe5 
-21.Rf3 Kg8 22.c4 dxc4 23.Bc3 Qb5 24.Qe2 Qc6 25.Rxf5 exf5 
-26.Qe7 Qd5 27.Ra2 Nc5 28.Rd2 Nd3 29.Re2 Rf8 30.Ne6 Rc8 
-31.Qg5 g6 32.Bxh8 fxe6 33.Bc3 Nc5 34.Rd2 Nd3 35.Qxg6+ Kf8 
-36.Qg7+ Ke8 37.Bf6 Qc5 38.a7 f4 39.Re2 e5 40.Bxe5 Nxe5 
-41.Rxe5+ Qxe5 42.Qxe5+ Kd7 43.Qxh5 c3 44.Qf5+ Kc7 45.Qxc8+ Kxc8 
-46.a8=Q+ Kd7 47.h5 b5 48.h6 c2 49.Qa1 Ke6 50.h7 f3 
-51.h8=Q 1-0
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Kf8 8. h4
+h5 9. Qd1 Qa5 10. Bd2 Qc7 11. Nf3 b6 12. a4 Ba6 13. Bb5 Bxb5 14. axb5 a5 15.
+bxa6 cxd4 16. cxd4 Qc4 17. Rh3 Nf5 18. Ng5 Qxd4 19. Kf1 Nd7 20. Kg1 Qxe5 21. Rf3
+Kg8 22. c4 dxc4 23. Bc3 Qb5 24. Qe2 Qc6 25. Rxf5 exf5 26. Qe7 Qd5 27. Ra2 Nc5
+28. Rd2 Nd3 29. Re2 Rf8 30. Ne6 Rc8 31. Qg5 g6 32. Bxh8 fxe6 33. Bc3 Nc5 34. Rd2
+Nd3 35. Qxg6+ Kf8 36. Qg7+ Ke8 37. Bf6 Qc5 38. a7 f4 39. Re2 e5 40. Bxe5 Nxe5
+41. Rxe5+ Qxe5 42. Qxe5+ Kd7 43. Qxh5 c3 44. Qf5+ Kc7 45. Qxc8+ Kxc8 46. a8=Q+
+Kd7 47. h5 b5 48. h6 c2 49. Qa1 Ke6 50. h7 f3 51. h8=Q 1-0
+
