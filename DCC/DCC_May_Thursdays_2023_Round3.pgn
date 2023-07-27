@@ -7,7 +7,7 @@
 [Result "1-0"]
 [Board "13"]
 [Section "U1600"]
-[TimeControl "G/70d10"]
+[TimeControl "G/70;d10"]
 [WhiteElo "1001"]
 [BlackElo "-"]
 
