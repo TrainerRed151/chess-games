@@ -1,17 +1,24 @@
-[Event "Denver Chess Club - August Tuesdays 2023"]
+[Event "Denver Chess Club - August Thursdays 2023"]
 [Site "Denver, CO USA"]
-[Date "2023.08.08"]
-[Round "1"]
-[White "Cox, Christopher"]
-[Black "Pomerantz, Brian"]
-[Result "0-1"]
-[Board "32"]
-[Section "U1500"]
+[Date "2023.08.11"]
+[Round "2"]
+[White "Pomerantz, Brian B"]
+[Black "Ruparel, Dan M"]
+[Result "1-0"]
+[Board "12"]
+[Section "U1600"]
 [TimeControl "G/70;d10"]
-[WhiteElo "-"]
-[BlackElo "1003"]
+[WhiteElo "1003"]
+[BlackElo "565"]
 
-1. d4 d5 2. Nf3 Nc6 3. g3 Nf6 4. Bg2 Bg4 5. O-O e6 6. c4 Bxf3 7. Bxf3 dxc4 8.
-Qa4 Nd5 9. Qxc4 a6 10. Nc3 Qd7 11. Nxd5 exd5 12. Bxd5 Na5 13. Bxf7+ Qxf7 14.
-Qa4+ Nc6 15. Rd1 O-O-O 16. e3 Be7 17. a3 Rhf8 18. Rd2 Ne5 19. Qd1 Nf3+ 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 e6 7. Bg5 Bg7 8. O-O
+O-O 9. Ndb5 h6 10. Bh4 a6 11. Nxd6 Qc7 12. Bg3 Rd8 13. e5 Nfd7 14. Re1 Nc6 15.
+f4 Rf8 16. Bh4 Nc5 17. a3 Bd7 18. b4 b5 19. Ba2 Na4 20. Nxa4 bxa4 21. c3 a5 22.
+b5 Ne7 23. Bxe7 Rfb8 24. Qxa4 Qxc3 25. Ne4 Qc7 26. Bd6 Qb6+ 27. Bc5 Bxb5 28.
+Bxb6 Bxa4 29. Rab1 Ra6 30. Nc5 Raxb6 31. Nxa4 Rb2 32. Rxb2 Rd8 33. Reb1 Bf8 34.
+Rb8 Rxb8 35. Rxb8 Kg7 36. Ra8 Bxa3 37. Rxa5 Bb4 38. Ra7 Bd2 39. Kf1 g5 40. fxg5
+hxg5 41. Bxe6 Bf4 42. Rxf7+ Kg6 43. Rf5 Kh5 44. Bc8 Kg6 45. g3 g4 46. gxf4 Kh6
+47. e6 Kg6 48. Rg5+ Kf6 49. Rxg4 Ke7 50. f5 Kd8 51. Ba6 Ke7 52. h4 Kf6 53. Bd3
+Ke7 54. h5 Kf6 55. h6 Ke5 56. e7 Kf6 57. h7 Kxe7 58. h8=Q Kd6 59. Qd4+ Kc6 60.
+Qc5+ 1-0
 
