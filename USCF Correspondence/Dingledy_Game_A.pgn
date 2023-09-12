@@ -1,7 +1,7 @@
 [Event "2023 Email Lightning Match"]
 [Site "E-mail"]
 [Date "2023.07.17"]
-[Round "1"]
+[Round "A"]
 [White "Dingledy, Fred"]
 [Black "Pomerantz, Brian"]
 [Result "*"]
@@ -13,5 +13,5 @@
 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. Nxf6+ Qxf6 12. c3 Qg6 13. Qd3 O-O 14. O-O-O Rd8
 15. Qd5 Bd7 16. Qxd6 Bg4 17. Qxg6 Rxd1+ 18. Kc2 hxg6 19. f3 Rad8 20. fxg4 R8d2+
 21. Kb3 Rf2 22. c4 Rfxf1 23. Rxf1 Rxf1 24. Nc2 bxc4+ 25. Kxc4 Rf2 26. Kc3 Rxg2
-27. Nb4 Nxb4 28. Kxb4 Rxb2+ *
+27. Nb4 Nxb4 28. Kxb4 Rxb2+ 29. Ka3 Rxh2 30. Kb3 Rh4 31. a4 Rxg4 32. Kb4 Rxe4+ *
 
