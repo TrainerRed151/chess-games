@@ -1,0 +1,52 @@
+[Event "Denver Chess Club - January Thursdays 2024"]
+[Site "Denver, CO USA"]
+[Date "2024.01.25"]
+[Round "4"]
+[White "Moss, Enrico"]
+[Black "Pomerantz, Brian"]
+[Result "0-1"]
+[Board "13"]
+[Section "U1600"]
+[TimeControl "G/70;d10"]
+[WhiteElo "849"]
+[BlackElo "1087"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Bb4 5. a3 Ba5 6. Be3 Ne7 7. Bd3 O-O 8. Ne2 Nd7
+9. O-O e5 10. Qe1 c5 11. b4 cxb4 12. axb4 Bxb4 13. Qg3 Qb6 14. exd5 Bxc3 { I
+thought I was cleverly removing the knight as a defender of the d4 square. I
+calculated out that if my opponent moved to Na5 with tempo on my queen, I could
+go to Qf6 to defend the pawn. Then after Bg5, I thought I was okay because I
+could play Qd6. But I forgot that the pawn was no longer on e5 to shield my
+queen. } 15. Nxc3 exd4 16. Na4 Qf6 17. Bg5 Qe5 { In retrospect, trading the
+queens when I was about to be down a piece was a bad idea. In the moment, I was
+just thinking about how the move protected the knight on e7 without blundering
+the queen. } 18. Qxe5 Nxe5 19. Bxe7 Re8 20. Bc5 Nxd3 { I thought knight for
+bishop, plus setting up the pawn-bishop-pawn skewer for my rook after 20. cxd3
+Rd8 21. Bxd4 Rxd5 looked good. } 21. cxd3 Rd8 22. d6 { I saw the pawn move back
+when I traded the knight for the bishop. Thought I had b6, but didn't realize
+until now that the rook would hang after Nxb6. } 22... Bf5 23. Rfd1 b6 { Now b6
+works } 24. Bxd4 Rxd6 25. Nxb6 Rb8 { I saw the skewer after Be5, but figured a
+bishop and a knight for a rook and a pawn (Rxa7 at the end of the trades) would
+have to do. } 26. Be5 Rbxb6 27. Bxd6 Rxd6 28. Rxa7 h6 29. d4 Be6 30. g4 g5 31.
+Kg2 Bd5 32. Kg3 Rf6 33. Rf1 Rf4 34. Rd7 Rxd4 35. Rc1 Rd3 36. Rf1 Kg7 37. h4 Kf6
+{ Apparently the engine liked 37... gxh4+. I was surprised to see that because I
+thought keeping the king from getting to the f4 square was important. } 38.
+hxg5+ hxg5 39. Kh2 { Not sure why my opponent gave me a free pawn and out of the
+pin. This is the first moment since I lost my knight that I thought I might be
+able to pull off a draw. } 39... Rxf3 40. Rxf3+ Bxf3 41. Kg3 Be2 { I first
+played Bc6 here, but luckily saw the obvious fork just as I was about to release
+the bishop. } 42. Rd2 Bc4 43. Kf3 Be6 44. Re2 { I spent almost 15 min after Re2
+trying to deside if this was a drawn position or if either side had winning
+chances. And also, how do I pull off the draw without losing. After deciding
+that I didn't have winning chances, I offered my opponent a draw. He turned it
+down and said the reason was because he had 45 min left on his clock and I only
+had 15 min left. I could tell he was upset that he blew his big lead in the
+middle game, and probably still wanted the win. } 44... Bd5+ 45. Ke3 Be6 46. Rg2
+Ke5 47. Rg1 Bc8 48. Rg3 Be6 49. Rg1 Bc8 { Just trying to get the draw by
+repetition. } 50. Rf1 Be6 { I thought my drawing chances were better not trading
+the pawns. } 51. Kf3 Bd5+ 52. Kg3 Be6 53. Re1+ Kf6 54. Rf1+ Kg6 55. Rc1 Kf6 56.
+Rc6 Ke5 57. Kf3 { I felt really bad for my opponent after this move, blundering
+the fork. Especially since he had turned down the draw offer. } 57... Bd5+ 58.
+Kg3 Bxc6 59. Kh3 Kf4 60. Kh2 Kxg4 61. Kg1 Kh3 62. Kf2 f5 63. Kg1 g4 64. Kf2 Kh2
+65. Kf1 g3 66. Ke2 g2 0-1
+
