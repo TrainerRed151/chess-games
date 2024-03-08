@@ -1,0 +1,51 @@
+[Event "Denver Chess Club - March Thursdays 2024"]
+[Site "Denver, CO USA"]
+[Date "2024.03.07"]
+[Round "1"]
+[White "Pomerantz, Brian"]
+[Black "Maloney, Matthew"]
+[Result "1-0"]
+[Board "8"]
+[Section "U1600"]
+[TimeControl "G/70;d10"]
+[WhiteElo "1091"]
+[BlackElo "1271"]
+
+1. e4 Nc6 2. Nf3 d6 { Not super familiar with this opening } 3. d4 { I debated
+taking the center vs developing the bishop and decided taking the center was
+probably better since I was unfamiliar with the opening } 3... Bg4 4. Bb5 a6 5.
+Be2 Bxf3 { Happy to get the bishop pair and relieve the tension } 6. Bxf3 e5 7.
+Be3 Be7 8. c3 { Figured I needed the extra defender of the d4 pawn since 8...
+Bg5 and I could be forced to trade off the bishop } 8... Bg5 9. Qd2 Bxe3 10.
+Qxe3 Qf6 11. d5 { 8. c3 also meant the knight couldn't move forward after this
+pawn push } 11... Na7 12. Nd2 Ne7 13. c4 b6 14. b4 c5 15. dxc6 Naxc6 16. Qxb6
+O-O 17. a3 { This was maybe a mistake, not getting my queen back to safety.  But
+I didn't want to give up the b4 pawn.  I figured I had, after 17... Nd4 18. O-O
+(to avoid the potential fork of 18... Nc2+) 18... a5 19. bxa5 Rfb8 20. Qc7 Rc8
+21. Qd7 Rd8 22. Qg4 and I was home free.  But I definitely was worried that I
+was missing something in this calculation that would trap my queen. } 17... Nd4
+18. O-O Rfb8 { Opponent went straight for the rook attack, which meant the a5
+square was still open for my queen to escape to } 19. Qa5 Qf4 20. Ra2 Ng6 21.
+Qa4 { I was also considering 21. Re1 to prepare for 21... Nh4 22. Re3 as a way
+to defend the bishop as opposed to the 22. Qd1 route I chose } 21... Nh4 22. Qd1
+Ndxf3+ 23. Nxf3 Qg4 24. Nxh4 Qxh4 { For the first time in the game, I felt like
+I could win if I played correctly.  I was also up 15 min on the clock here (~30
+min to opponent's 15 min), which is rare for me } 25. Re1 Rd8 26. Rd2 Qe7 27.
+Rd5 Rac8 28. Qa4 Rxc4 29. Qxa6 Qc7 30. Red1 Rc1 31. Qd3 Rd7 { This move seemed
+like a loss of tempo for nothing } 32. g3 { Allows me to take the rook on c1
+without getting mated } 32... g6 33. Rxc1 Qxc1+ 34. Kg2 Rc7 { Couldn't tell if
+this was a trap as opposed to something like 34... Qc6 to defend the d6 pawn }
+35. Rxd6 Rc3 36. Qd5 Rc7 37. Qxe5 f6 { Not sure why my opponent gave up another
+pawn instead of defending mate with something like 37... Rc8 } 38. Qxf6 Rc8 39.
+Rd7 Qh6 { I knew I was close to mate, but now me and my opponent had less that 5
+min each on our clocks, so I had to try and move fast } 40. Qe6+ Kh8 41. Rxh7+
+Qxh7 { I felt my opponent should have taken with the king, because now I get to
+take the rook with tempo } 42. Qxc8+ Qg8 43. Qxg8+ Kxg8 { Okay, I can win a king
+and pawn endgame up 5 pawns $1 } 44. Kf3 Kf7 45. Ke3 Ke6 46. h4 Kd6 47. f4 {
+Less than 2 min each, so all these moves are almost instantaneous } 47... Kc6
+48. f5 gxf5 49. exf5 Kb5 50. f6 Ka4 51. f7 Kxa3 52. f8=Q Kb3 53. Qc5 Ka4 54. b5
+Ka5 55. b6+ { Maybe a more efficient way to win bringing in the king, but I just
+wanted to ensure I didn't stalemate my opponent while moving within the 10s
+delay period } 55... Ka6 56. b7 Kxb7 57. h5 Ka6 58. h6 Kb7 59. h7 Ka6 60. h8=Q
+Kb7 61. Qb2+ Ka6 62. Qca3# 1-0
+
